@@ -5,14 +5,12 @@
     try {  
       const allPosts = await import.meta.glob(`../../lib/posts/*.md`)
       const iterablePosts = Object.entries(allPosts)
-      // console.log(iterablePosts);
 
       let filteredPosts = iterablePosts.filter(([path, resolver]) => {
-        console.log(path);
         return path.slice(27, -3) === params.post
       })
       if (Array.isArray(filteredPosts) && filteredPosts.length === 1) {
-        const post = await import(filteredPosts[0][0])
+        const post = await import(filteredPosts[0][0]/* @vite-ignore */)
 
         return {
           props: {
