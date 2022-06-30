@@ -24,7 +24,7 @@
 	import { prefetch } from '$app/navigation'
   import { onMount } from 'svelte'
   import { fade } from 'svelte/transition'
-import Callout from '$lib/components/Callout.svelte';
+  import Callout from '$lib/components/Callout.svelte';
 
   const transitionIn = { delay: 150, duration: 150 }
   const transitionOut = { duration: 100 }
@@ -49,7 +49,10 @@ import Callout from '$lib/components/Callout.svelte';
   })
 </script>
 
-
+<svelte:head>
+	<!-- elements go here -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.28.0/themes/prism-tomorrow.min.css">
+</svelte:head>
 <!-- 
   The below markup is used on every page in the site. The <slot> is where the page's
   actual contents will show up.
