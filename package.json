@@ -19,6 +19,9 @@
     "prettier-plugin-svelte": "^2.4.0",
     "rehype-autolink-headings": "^6.1.0",
     "rehype-slug": "^5.0.0",
+    "remark-attr": "^0.11.1",
+    "remark-containers": "^1.2.0",
+    "remark-deflist": "^1.0.0",
     "sass": "^1.43.4",
     "svelte": "^3.42.6"
   },

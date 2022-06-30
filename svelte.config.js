@@ -1,6 +1,9 @@
 import adapter from '@sveltejs/adapter-static'
 import { mdsvex } from 'mdsvex'
 import preprocess from 'svelte-preprocess'
+import attr from 'remark-attr'
+import containers from 'remark-containers'
+import defList from 'remark-deflist'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeSlug from 'rehype-slug'
 
@@ -20,6 +23,11 @@ const config = {
 			// The default mdsvex extension is .svx; this overrides that.
 			extensions: ['.md'],
 
+			// Adds support for extended syntax and custom classes.
+			remarkPlugins: [
+				defList,
+				containers
+			],
 			// Adds IDs to headings, and anchor links to those IDs. Note: must stay in this order to work.
 			rehypePlugins: [
 				rehypeSlug,
