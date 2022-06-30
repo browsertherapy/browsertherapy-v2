@@ -3,13 +3,26 @@
 <script context="module">
   export const load = async ({ params }) => {
     try {  
-      const post = await import(`../../lib/posts/${params.post}.md`)
+      const allPosts = await import.meta.glob(`../../lib/posts/*.md`)
+      const iterablePosts = Object.entries(allPosts)
+      // console.log(iterablePosts);
 
-      return {
-        props: {
-          PostContent: post.default,
-          meta: { ...post.metadata, slug: params.post } 
+      let filteredPosts = iterablePosts.filter(([path, resolver]) => {
+        console.log(path);
+        return path.slice(27, -3) === params.post
+      })
+      if (Array.isArray(filteredPosts) && filteredPosts.length === 1) {
+        const post = await import(filteredPosts[0][0])
+
+        return {
+          props: {
+            PostContent: post.default,
+            meta: { ...post.metadata, slug: params.post } 
+          }
         }
+      }
+      return {
+        props: {}
       }
     } catch(error) {
       return {

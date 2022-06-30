@@ -4,7 +4,9 @@ const fetchPosts = async ({ offset = 0, limit = postsPerPage, category = '' } = 
   const posts = await Promise.all(
     Object.entries(import.meta.glob('../../posts/*.md')).map(async ([path, resolver]) => {
       const { metadata } = await resolver()
-      const slug = path.split('/').pop().slice(0, -3)
+
+      // .slice(11, -3) removes the date (ex. 2022-06-12) and the file extension
+      const slug = path.split('/').pop().slice(11, -3)
       return { ...metadata, slug }
     })
   )
