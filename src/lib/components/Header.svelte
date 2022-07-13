@@ -1,6 +1,7 @@
 <script>
   import MainNav from './MainNav.svelte'
   import HamburgerMenuButton from './HamburgerMenuButton.svelte'
+  import DarkModeButton from './DarkModeButton.svelte'
   import { siteTitle } from '$lib/config'
 
   const focusMain = () => {
