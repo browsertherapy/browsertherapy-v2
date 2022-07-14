@@ -3,7 +3,7 @@
 header,
 footer {
   font-family: var(--primaryFont);
-  padding: 2.5rem 2rem;
+  padding: 0.85rem 2rem;
   
   a {
     text-decoration: none;
@@ -33,7 +33,7 @@ footer {
 }
 
 header {
-  background: var(--lightAccent);
+  background: var(--white);
   color: var(--darker);
   display: flex;
   justify-content: space-between;
@@ -142,9 +142,9 @@ header {
       color: inherit;
 
       ul {
-        margin: 1rem auto 0;
-        padding-top: 0.5rem;
-        border-top: 1px solid var(--dark);
+        // margin: 1rem auto 0;
+        // padding-top: 0.5rem;
+        // border-top: 1px solid var(--dark);
         width: max-content;
 
         li {
