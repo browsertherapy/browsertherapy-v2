@@ -2,6 +2,7 @@
   import { currentPage, isMenuOpen } from '$lib/assets/js/store'
 
   export let href
+  export let page
 
   $: isCurrentPage = $currentPage.startsWith(href)
 
@@ -17,6 +18,7 @@
   <a
     href={href}
     on:click={maybeCloseMenu}
+    class={page}
     class:active={isCurrentPage}
     aria-current={isCurrentPage ? 'page' : false}
   >

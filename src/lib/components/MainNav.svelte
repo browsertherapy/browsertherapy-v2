@@ -9,7 +9,7 @@
 <nav class="main-nav" class:open={$isMenuOpen}>
   <ul>
     {#each navItems as page}
-    <NavItem href={page.route}>
+    <NavItem href={page.route} page={page.title}>
       {page.title}
     </NavItem>
     {/each}
