@@ -3,7 +3,7 @@
 header,
 footer {
   font-family: var(--primaryFont);
-  padding: 0.85rem 2rem;
+  padding: 0.5rem 1rem;
   
   a {
     text-decoration: none;
@@ -44,9 +44,16 @@ header {
               0px 8px 8px rgba(0,0,0,0.05);
 
   @media (min-width: vars.$smMin) {
-    justify-content: center;
     flex-wrap: wrap;
     height: auto;
+  }
+
+  .logo {
+    display: block;
+  }
+  .logo-icon {
+    height: 2rem;
+    display: block;
   }
 
   .site-title {
