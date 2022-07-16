@@ -26,6 +26,8 @@
       <circle id="bt-icon-2" cx="206.3" cy="16.72" r="5" fill="#231f20"/>
       <circle id="bt-icon-1" cx="226.3" cy="16.72" r="5" fill="#231f20"/>
     </svg>
+    <span class="logo-browser">Browser</span>
+    <span class="logo-therapy">Therapy</span>
   </a>
   
   <HamburgerMenuButton />
