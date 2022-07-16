@@ -137,12 +137,36 @@ header {
       }
     }
 
+    .live-streams {
+      display: flex;
+      background: var(--twitch-purple);
+      color: var(--white);
+      font-weight: bold;
+      padding: 0.25rem 0.5rem;
+      border-radius: 0.5rem;
+      width: max-content;
+      margin: auto;
+
+      &::before {
+        content: url('/images/logos/TwitchGlitchBlackOps.svg');
+        display: inline-block;
+        height: 1.25rem;
+        width: 1.25rem;
+        margin: 0.25rem;
+        margin-right: 0.5rem;
+      }
+    }
+
     .menu-button {
       position: absolute;
       top: 2rem;
       right: 2rem;
     }
     
+    ul {
+      align-items: center;
+    }
+
     ul li {
       font-size: 1.2rem;
       display: block;

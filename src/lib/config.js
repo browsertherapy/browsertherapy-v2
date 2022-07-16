@@ -12,14 +12,17 @@ export const navItems = [
   {
     title: 'blog',
     route: '/blog'
-  }, {
+  },
+  {
     title: 'about',
     route: '/about'
-  }, {
+  },
+  {
     title: 'contact',
     route: '/contact' 
-  }, {
-    title: 'subscribe',
-    route: '/subscribe' 
+  },
+  {
+    title: 'live streams',
+    route: 'https://www.twitch.tv/browsertherapy' 
   },
 ]

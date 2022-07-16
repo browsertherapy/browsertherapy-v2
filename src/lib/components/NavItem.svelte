@@ -4,6 +4,8 @@
   export let href
   export let page
 
+  page = page.replace(' ', '-'); // for use as classes
+
   $: isCurrentPage = $currentPage.startsWith(href)
 
   const maybeCloseMenu = () => {
