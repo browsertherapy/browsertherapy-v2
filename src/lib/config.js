@@ -9,18 +9,18 @@ export const postsPerPage = 10
 
 // Edit this to alter the main nav menu. (Also used by the footer and mobile nav.)
 export const navItems = [
-  {
-    title: 'blog',
-    route: '/blog'
-  },
+  // {
+  //   title: 'blog',
+  //   route: '/blog'
+  // },
   {
     title: 'about',
     route: '/about'
   },
-  {
-    title: 'contact',
-    route: '/contact' 
-  },
+  // {
+  //   title: 'contact',
+  //   route: '/contact' 
+  // },
   {
     title: 'live streams',
     route: 'https://www.twitch.tv/browsertherapy' 
