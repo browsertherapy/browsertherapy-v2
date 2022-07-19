@@ -12,12 +12,13 @@
 </script>
 
 <script>
+	import {siteTitle} from '$lib/config'
   export let ReadMe
 </script>
 
 
 <svelte:head>
-	<title>SvelteKit Static Blog Starter</title>
+	<title>{siteTitle}</title>
 </svelte:head>
 
 
