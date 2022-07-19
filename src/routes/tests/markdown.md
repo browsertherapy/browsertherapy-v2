@@ -3,7 +3,7 @@ title: Markdown Test Page
 ---
 
 <style>
-  red {
+  .red {
     color: red;
   }
 </style>
