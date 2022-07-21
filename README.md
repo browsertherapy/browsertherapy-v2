@@ -13,28 +13,15 @@
 ---
 
 ## Upcoming streams
+- July 30th: Building a digital dice tower (i.e. rolling multiple dice)
+- August 6th: Pair coding with Ian Sutherland
+- August 13th: TBA
+- August 20th: Pair-coding with Ashlyn Knox
+- August 27th: TBA
 
-### July 30th: TBA
-Potential topics:
+## Project wishlist
 - Rolling multiple dice
-- Typescript
-- ???
-
-### August 6th: Pair coding with Ian Sutherland
-Potential topics:
+- Refactor an app for Typescript
 - How to publish an npm package
 - Exploring the GitHub API
-- ???
-
-### August 13th: TBA
-Potential topics:
-- ???
-
-### August 20th: Pair-coding with Ashlyn Knox
-Potential topics:
-- Something Linuxy
-- Figma
-
-### August 13th: TBA
-Potential topics:
-- ???
+- Replicate the Nuxt 3 loading page
