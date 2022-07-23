@@ -76,7 +76,7 @@ header {
     font-family: var(--accentFont);
     font-style: italic;
     letter-spacing: 0.15ch;
-    color: var(--accent);
+    color: var(--logo-primary);
     
     @media (min-width: vars.$smMin) {
       display: block;

@@ -18,7 +18,7 @@ h1 {
   &::after {
     content: '';
     height: 0.1em;
-    background: var(--accent);
+    background: var(--logo-primary);
     width: 100%;
     margin-left: -100%;
     position: absolute;
