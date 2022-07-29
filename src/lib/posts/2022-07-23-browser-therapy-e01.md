@@ -3,6 +3,9 @@ title: Ep 1 - Let's Build a Dice Roller
 date: '2022-07-23'
 updated: '2022-07-23'
 excerpt: First episode! We'll be building a function that rolls traditional and custom dice.
+categories: 
+- live-stream
+
 ---
 
 ## Agenda
