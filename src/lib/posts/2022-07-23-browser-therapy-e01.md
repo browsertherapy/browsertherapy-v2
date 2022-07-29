@@ -40,7 +40,7 @@ categories:
         - [die icon resolution](https://boardgamegeek.com/boardgamemechanic/2856/die-icon-resolution)
         - [different dice movement](https://boardgamegeek.com/boardgamemechanic/2950/different-dice-movement)
         - [worker placement with dice workers](https://boardgamegeek.com/boardgamemechanic/2935/worker-placement-dice-workers)
-- [White, Brown, and Pink: The Flavors of Tabletop Game Randomness](randomness-white-brown-pink-noise.md) by Geoff Engelstein
+- [White, Brown, and Pink: The Flavors of Tabletop Game Randomness](https://www.youtube.com/watch?v=qXn3tGBztVc) by Geoff Engelstein
 
 ## Build sessions
 ### Source repos
