@@ -10,7 +10,10 @@
         return path.slice(27, -3) === params.post
       })
       if (Array.isArray(filteredPosts) && filteredPosts.length === 1) {
-        const post = await import(filteredPosts[0][0]/* @vite-ignore */)
+        // Chop off `../../lib/posts/` and `.md` so Vite doesn't complain about dynamic imports
+        // https://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations
+        const postFileName = filteredPosts[0][0].slice(16,-3);
+        const post = await import(`../../lib/posts/${postFileName}.md`)
 
         return {
           props: {
