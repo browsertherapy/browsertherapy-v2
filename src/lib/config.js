@@ -17,10 +17,14 @@ export const navItems = [
     title: 'about',
     route: '/about'
   },
-  // {
-  //   title: 'contact',
-  //   route: '/contact' 
-  // },
+  {
+    title: 'discord',
+    route: 'https://discord.gg/A39ujp4hC2' 
+  },
+  {
+    title: 'subscribe',
+    route: 'https://tinyletter.com/browsertherapy' 
+  },
   {
     title: 'live streams',
     route: 'https://www.twitch.tv/browsertherapy' 
