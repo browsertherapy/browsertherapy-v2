@@ -1,19 +1,15 @@
-# Next Live Stream: July 23rd
-## Building a dice roller
+# Next Live Stream: July 30th
+## [SVG Dice Faces with Dark Mode Support](/blog/browser-therapy-e02)
 **Agenda**:
-- Why a dice roller?
-- Build session: Vanilla JS `roll()` utility function
-- Maybe play with SVGs?
-
-**Topics of interest**:
-- King of Tokyo (board game)
-- Board game mechanics
-- Dice and Randomness
+1. King of Tokyo Recap
+2. Simple dice faces with Font Awesome
+3. Dark Mode!!!
+4. Plan out a new roll interface
+5. SVG rabbit holes.
 
 ---
 
 ## Upcoming streams
-- July 30th: Building a digital dice tower (i.e. rolling multiple dice)
 - August 6th: Pair coding with Ian Sutherland
 - August 13th: TBA
 - August 20th: Pair-coding with Ashlyn Knox

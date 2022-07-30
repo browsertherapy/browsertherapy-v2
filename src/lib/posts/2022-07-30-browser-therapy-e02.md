@@ -1,5 +1,5 @@
 ---
-title: Ep 2 - SVG Dice Faces with Dark Mode
+title: Ep 2 - SVG dice faces with dark mode support
 date: '2022-07-30'
 updated: '2022-07-30'
 excerpt: We'll be building on our simple dice roller by making our dice pretty in both light and dark modes.
