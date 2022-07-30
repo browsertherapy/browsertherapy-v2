@@ -1,4 +1,4 @@
-# Next Live Stream: July 30th
+# Next Live Stream: July 31st
 ## [SVG Dice Faces with Dark Mode Support](/blog/browser-therapy-e02)
 **Agenda**:
 1. King of Tokyo Recap
