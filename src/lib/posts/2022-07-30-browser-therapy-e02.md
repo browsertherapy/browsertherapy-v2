@@ -38,6 +38,13 @@ categories:
 2. Walk-through of last week
 3. Simple dice faces with Font Awesome (maybe custom SVG?)
     - The current design is non-existent. Gotta make it pretty!
+    - Goal: Make the dice _minimally_ pretty
+    - TODOs:
+        - [ ] Find and download(?) Font Awesome icons dice faces
+        - [ ] Centre the dice on the page and make them big.
+        - [ ] Install FA CDN
+        - [ ] Add CSS logic for displaying the the proper icons
+        - [ ] Choose a colour theme
 4. Dark Mode (i.e. Dark Edition)
     - The whole game will support different themes in light and dark modes. We might as well start with the dice.
 5. Plan out a new roll interface
