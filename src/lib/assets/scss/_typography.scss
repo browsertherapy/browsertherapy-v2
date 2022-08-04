@@ -14,16 +14,7 @@ h1 {
   position: relative;
   overflow: hidden;
   padding-bottom: 1rem;
-
-  &::after {
-    content: '';
-    height: 0.1em;
-    background: var(--logo-primary);
-    width: 100%;
-    margin-left: -100%;
-    position: absolute;
-    bottom: 0;
-  }
+  border-bottom: 5px solid var(--logo-primary);
 
   @media (min-width: vars.$smMin) {
     font-size: 3rem;
