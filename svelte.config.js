@@ -40,16 +40,7 @@ const config = {
     prerender: {
       default: true
     },
-		adapter: adapter(),
-
-		// Allows reading from files in the root directory. Necessary for loading the README on the homepage, but nothing else.
-		vite: {
-			server: {
-				fs: {
-					allow: ['.']
-				}
-			}
-		}
+		adapter: adapter()
 	}
 };
 
