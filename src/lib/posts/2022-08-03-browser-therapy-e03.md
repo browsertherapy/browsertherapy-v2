@@ -32,12 +32,11 @@ categories:
     - [Twitter](https://twitter.com/iansu)
 3. King of Tokyo Recap
 4. Walk-through of last week
-5. New plan for the roll interface
-6. Choose our own adventure:
-    - Publish an npm package
+5. Choose our own adventure:
+    - Refactoring keep and roll piles in the vanilla interface
     - How to find 3-of-a-kind?
         - Build a utility function that can be used for KoT and Yahtzee?
-    - Refactoring keep and roll piles in the vanilla interface
+    - Publish an npm package
     - Play with the GitHub API
         - Build a commit counter?
     - Refactor our dice interface so it doesn't suck
