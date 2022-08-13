@@ -1,5 +1,5 @@
 # Next Live Stream: August 20th @ noon
-## Pair-coding with Ashlyn Knox
+## [Pair-coding with Ashlyn Knox](/blog/browser-therapy-e05)
 This session we will either work on the game board of the King of Tokyo clone OOOOORR maybe we'll build a CLI interface for [squoosh.app](https://squoosh.app/)!
 
 ---

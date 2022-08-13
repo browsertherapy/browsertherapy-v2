@@ -1,8 +1,8 @@
 ---
-title: Ep 4 - Refactoring a Dice Roller Interface
-date: '2022-08-12'
+title: Ep 5 - Pair-coding with Ashlyn Knox
+date: '2022-08-13'
 updated: '2022-08-13'
-excerpt: This session we need to fix some interface issues with our King of Tokyo dice roller. While we're at it, let's think about what the rest of the game board might look like.
+excerpt: This session we will either work on the game board of the King of Tokyo clone OOOOORR maybe we'll build a CLI interface for squoosh.app!
 categories: 
 - live-stream
 
@@ -18,7 +18,7 @@ categories:
     - [Vanilla Dice Tower](https://github.com/acidtone/dice-roller-vanilla/) ([Live Demo](https://acidtone.github.io/dice-tower-vanilla))
 
 ## Housekeeping
-- Next week: Pair-coding with Ashlyn Knox
+- TBA
 
 ## Agenda for this week
 1. Weekly Journal Review
@@ -27,11 +27,7 @@ categories:
 2. Walk-through of last week
     - Comment some TODOs that might have been missed last session
 3. King of Tokyo Recap
-4. Build session: Refactor dice roller interface
-    - [ ] Put the keep and roll piles on the same row;
-    - [ ] Use inset box shadow for keep pile;
-    - [ ] Auto resolve after 3rd roll.
-5. [Choose our own adventure](https://github.com/orgs/browsertherapy/projects/4/views/2)
+4. [Choose our own adventure](https://github.com/orgs/browsertherapy/projects/4/views/2)
+
 ## Cleanup
-- Title for current stream?
 - Update schedule for next stream (README.md)
