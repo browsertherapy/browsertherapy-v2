@@ -34,6 +34,9 @@ categories:
 4. Walk-through of last week
 5. Choose our own adventure:
     - Refactoring keep and roll piles in the vanilla interface
+        - [x] Create keep array and roll array
+        - [x] Add build function for each roll pile (unneeded when in SvelteKit?) from arrays
+        - [x] Change die click handler to toggle the `keep` attr/class and then rebuild the roll piles
     - How to find 3-of-a-kind?
         - Build a utility function that can be used for KoT and Yahtzee?
     - Publish an npm package
