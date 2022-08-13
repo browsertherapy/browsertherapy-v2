@@ -24,16 +24,14 @@ categories:
 1. Weekly Journal Review
     - [Code Journal](https://acidtone.github.io/code-journal/)
     - [Teaching Journal](https://acidtone.github.io/teaching-journal/)
-2. King of Tokyo Recap
-3. Walk-through of last week
+2. Walk-through of last week
     - Comment some TODOs that might have been missed last session
+3. King of Tokyo Recap
 4. Build session: Refactor dice roller interface
     - [ ] Put the keep and roll piles on the same row;
     - [ ] Use inset box shadow for keep pile;
     - [ ] Auto resolve after 3rd roll.
-5. Task Flow: Full game
-6. Wireframes: Game Board
-
+5. [Choose our own adventure](https://github.com/orgs/browsertherapy/projects/4/views/2)
 ## Cleanup
 - Title for current stream?
 - Update schedule for next stream (README.md)
