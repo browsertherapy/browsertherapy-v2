@@ -1,6 +1,6 @@
-# Next Live Stream: August 13th @ noon
-## [Dice Roller Interface Refactor](/blog/browser-therapy-e04)
-This session we need to fix some interface issues with our King of Tokyo dice roller. While we're at it, let's think about what the rest of the game board might look like.
+# Next Live Stream: August 20th @ noon
+## Pair-coding with Ashlyn Knox
+This session we will either work on the game board of the King of Tokyo clone OOOOORR maybe we'll build a CLI interface for [squoosh.app](https://squoosh.app/)!
 
 ---
 
