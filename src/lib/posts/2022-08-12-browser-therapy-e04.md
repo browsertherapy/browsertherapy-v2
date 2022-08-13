@@ -32,9 +32,9 @@ categories:
 3. King of Tokyo Recap
     - With a focus on the transition to resolving dice
 4. Build session: Refactor dice roller interface
-    - [ ] Put the keep and roll piles on the same row;
-    - [ ] Use inset box shadow for keep pile;
-    - [ ] Auto resolve after 3rd roll.
+    - [x] Put the keep and roll piles on the same row;
+    - [x] Use inset box shadow for keep pile;
+    - [x] Auto resolve after 3rd roll.
 5. [Choose our own adventure](https://github.com/orgs/browsertherapy/projects/4/views/2)
 
 ## Cleanup
