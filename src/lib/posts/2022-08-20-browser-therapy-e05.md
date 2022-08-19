@@ -1,21 +1,17 @@
 ---
-title: Ep 5 - Pair-coding with Ashlyn Knox
+title: Ep 5 - Building a Deck Shuffler with Ashlyn Knox
 date: '2022-08-13'
-updated: '2022-08-13'
+updated: '2022-08-18'
 excerpt: This session we'll be coding up a deck shuffler for our King of Tokyo clone with Ashlyn Knox, instructor at SAIT and software developer at Fedora.
 categories: 
 - live-stream
 
 ---
-
-## Relevant repos
-- Vanilla Dice Roller WIP
-    - [live demo](https://acidtone.github.io/dice-roller-vanilla/)
-    - [github repo](https://github.com/acidtone/dice-roller-vanilla)
-- [Project Boards](https://github.com/orgs/browsertherapy/projects)
-- Archive projects
-    - [King of Calgary](https://github.com/acidtone/king-of-calgary) ([Live Demo](https://acidtone.github.io/king-of-calgary/))
-    - [Vanilla Dice Tower](https://github.com/acidtone/dice-roller-vanilla/) ([Live Demo](https://acidtone.github.io/dice-tower-vanilla))
+## Topics covered
+- Shuffling a deck of cards using the [Fisher–Yates algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+- Dealing and discarding cards with:
+    - `Array.prototype.pop()`
+    - `Array.prototype.push()`
 
 ## Housekeeping
 - We've created a new project repo:
@@ -35,6 +31,16 @@ categories:
 6. Buy a "Discard" card.
 7. Deal a card face-up to replace bought/discarded card.
 8. Sweep all face-up cards.
+
+## Relevant repos
+- King of Tokyo clone
+    - [github repo](https://github.com/browsertherapy/king-of-tokyo-clone/)
+    - [live demo](https://browsertherapy.github.io/king-of-tokyo-clone/)
+- [Project Boards](https://github.com/orgs/browsertherapy/projects)
+- Archive projects
+    - [King of Calgary](https://github.com/acidtone/king-of-calgary) ([Live Demo](https://acidtone.github.io/king-of-calgary/))
+    - [Vanilla Dice Tower](https://github.com/acidtone/dice-roller-vanilla/) ([Live Demo](https://acidtone.github.io/dice-tower-vanilla))
+    - [Vanilla Dice Roller WIP](https://github.com/acidtone/dice-roller-vanilla) ([Live Demo](https://acidtone.github.io/dice-roller-vanilla/))
 
 ## Cleanup
 - Update schedule for next stream (README.md)
