@@ -23,14 +23,18 @@ categories:
     - [Code Journal](https://acidtone.github.io/code-journal/)
     - [Teaching Journal](https://acidtone.github.io/teaching-journal/)
 2. Walk-through of last week
-    - Comment some TODOs that might have been missed last session
 3. King of Tokyo Recap, focusing on the cards
-4. Shuffling a deck using the [Fisher–Yates algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle):
-    - See: [How to randomize (shuffle) a JavaScript array](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array) with this [cool visualization](https://bost.ocks.org/mike/shuffle/)
+4. Walk-through of the [Fisher–Yates algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+    - Random permutations are tight!
+4. Shuffling a deck of cards as an array of objects:
+    - See: 
+        - Stack Overflow: [How to randomize (shuffle) a JavaScript array](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
+        - [Cool visualizations of different techniques](https://bost.ocks.org/mike/shuffle/)
 5. Deal 3 cards face-up with `Array.prototype.pop()` and `Array.prototype.push()`.
 6. Buy a "Discard" card.
-7. Deal a card face-up to replace bought/discarded card.
-8. Sweep all face-up cards.
+    - Deal a card face-up to replace bought/discarded card.
+    - Move card to discard pile.
+7. Sweep all three face-up cards.
 
 ## Relevant repos
 - King of Tokyo clone
