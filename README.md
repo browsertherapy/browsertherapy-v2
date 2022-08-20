@@ -1,6 +1,6 @@
-# Next Live Stream: August 20th @ noon
-## [Building a Deck Shuffler with Ashlyn Knox](/blog/browser-therapy-e05)
-This session we'll be coding up a deck shuffler for our King of Tokyo clone with Ashlyn Knox, instructor at SAIT and software developer at Fedora.
+# Next Live Stream: August 27th @ noon?
+## [Mini-Hackathon](https://www.meetup.com/software-developers-of-calgary/events/bhsrvsydclbkc/)
+This session we'll be taking part in the monthly Mini-hackathon hosted by the Software Developers of Calgary!!!
 
 ---
 
