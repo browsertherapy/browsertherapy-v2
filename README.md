@@ -6,7 +6,7 @@ This session we'll be coding up a deck shuffler for our King of Tokyo clone with
 
 ## Upcoming streams
 - August 20th: Building a Deck Shuffler with Ashlyn Knox
-- August 27th: King of Tokyo build session
+- August 27th: [Mini-hackathon with SDC](https://www.meetup.com/software-developers-of-calgary/events/bhsrvsydclbkc/)
 - September 3rd: King of Tokyo build session
 - September 10th: King of Tokyo build session 
 
