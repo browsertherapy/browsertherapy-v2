@@ -39,16 +39,44 @@ categories:
             5. Install dependencies with npm, NOT Yarn or pnpm. npm is the gold standard.
             6. Use minimal code and files to reproduce the Issue.
                 - A "perfect" example of an Issue repro: [URI Encoding inconsistent between SSR and Browser routers](https://github.com/sveltejs/kit/issues/4629)
-                
-## Relevant repos
-- King of Tokyo clone
-    - [github repo](https://github.com/browsertherapy/king-of-tokyo-clone/)
-    - [live demo](https://browsertherapy.github.io/king-of-tokyo-clone/)
-- [Project Boards](https://github.com/orgs/browsertherapy/projects)
-- Archive projects
-    - [King of Calgary](https://github.com/acidtone/king-of-calgary) ([Live Demo](https://acidtone.github.io/king-of-calgary/))
-    - [Vanilla Dice Tower](https://github.com/acidtone/dice-roller-vanilla/) ([Live Demo](https://acidtone.github.io/dice-tower-vanilla))
-    - [Vanilla Dice Roller WIP](https://github.com/acidtone/dice-roller-vanilla) ([Live Demo](https://acidtone.github.io/dice-roller-vanilla/))
+
+9. Stringify bug:
+    - A [breaking change in `.422`](https://github.com/sveltejs/kit/pull/6007) was the root cause of the issue.
+        - From [Issue #6007](https://github.com/sveltejs/kit/pull/6007):
+            > Closes [#5936](https://github.com/sveltejs/kit/issues/5936). This behaviour is nothing more than a historical accident. It's buggy, and there's no reason to keep it.
+
+            > If we want routes to serve both HTML and non-HTML, [#5896](https://github.com/sveltejs/kit/issues/5896) is a more promising approach.
+    - Apparently the solution will be to move the `+page.server.js` code to a `+server.js` file because they support returning JSON data as a Response.
+10. Move the `+page.server.js` code to a `+server.js`!
+    1. Add `.md` file in `$lib`
+    2. Add `test` route.
+    3. Inside `test` add `+page.server.js` that:
+        - `import()` `.md` file
+        - `return` import object to `+page.svelte`
+    4. Inside `test` add `+page.svelte` that:
+        - exports `data`
+        - uses import object in a `<svelte:component>` elements
+11. Update: That didn't work.
+12. Update update: Both problems only needed [changes to two lines of code](https://github.com/sait-wbdv/f22-sveltekit-blog-starter/commit/9abb8b51576590f1ad83e005aa8dcd4b415e6576)!
+    - Turns out there's a new way to render the code in `+page.server.js` before exporting it:
+        ```js
+        lessonContent.default
+        ```
+        is now
+        ```js
+        lessonContent.default.render().html
+        ```
+    - And you no longer need to use a dynamic component:
+        ```js
+        <svelte:component this={data.lessonContent} />
+        ```
+
+        is now:
+
+        ```js
+        {@html data.lessonContent}
+        ```
+    - In hindsight, checking the original theme commits for changes would have saved hours of grinding, but at least I learned some things along the say (see above).
 
 ## Cleanup
 - Update schedule for next stream (README.md)
