@@ -1,6 +1,6 @@
 # Next Live Stream: September 10th @ noon
-## Making KoT clone pretty
-This session we'll be dipping to some CSS to add a nice layout to our King of Tokyo clone.
+## Pair coding with Jacqueline Bilston
+This session Jacqueline will be giving us an intro into unit tests and testing in general!
 
 ---
 
