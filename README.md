@@ -1,5 +1,5 @@
 # Next Live Stream: September 10th @ noon
-## Pair coding with Jacqueline Bilston
+## [Pair coding with Jacqueline Bilston](blog/browser-therapy-e08)
 This session Jacqueline will be giving us an intro into unit tests and testing in general!
 
 ---
