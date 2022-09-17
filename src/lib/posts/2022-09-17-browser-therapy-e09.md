@@ -16,6 +16,12 @@ categories:
 3. IRL mockup of the KoT game board;
 4. [Knock down some cards](https://github.com/orgs/browsertherapy/projects/4/views/2)
 
+## Relevant repos
+- King of Tokyo clone
+    - [github repo](https://github.com/browsertherapy/king-of-tokyo-clone/)
+    - [live demo](https://browsertherapy.github.io/king-of-tokyo-clone/)
+- [Project Board](https://github.com/orgs/browsertherapy/projects/4/views/2)
+
 ## Cleanup
 - Update schedule for next stream (README.md)
 - Create new blog post
