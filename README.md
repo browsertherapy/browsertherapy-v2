@@ -1,12 +1,11 @@
 # Next Live Stream: September 17th @ noon
-## [Card layout wireframes in PenPot](/blog/browser-therapy-e09)
-This session we'll be wireframing Player and Power Cards with Penpot.
+## [Making King of Tokyo clone pretty(ish)](/blog/browser-therapy-e09)
+This session we'll be making our work-in-progress a little prettier.
 
 ---
 
 ## Upcoming streams
-- September 10th: Making KoT clone pretty
-- September 17th: King of Tokyo build session and play test
+- September 17th: Making KoT clone pretty
 - September 24th: [Mini-hackathon edition](https://www.meetup.com/software-developers-of-calgary/events/bhsrvsydcmbgc/)
 - October 1st: King of Tokyo build session
 

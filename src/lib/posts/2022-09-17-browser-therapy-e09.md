@@ -1,8 +1,8 @@
 ---
-title: Ep 9 - Wireframing Card Layouts with Penpot
+title: Ep 9 - Making King of Tokyo clone pretty(ish)
 date: '2022-09-17'
 updated: '2022-09-17'
-excerpt: This session we'll be wireframing Player and Power Cards with Penpot. 
+excerpt: This session we'll be making our work-in-progress a little prettier. 
 categories: 
 - live-stream
 ---
@@ -14,10 +14,7 @@ categories:
     - [Teaching Journal](https://acidtone.github.io/teaching-journal/)
 2. Walk-through of last week;
 3. IRL mockup of the KoT game board;
-4. Quick sketches
-5. Wireframe sketches in Penpot
-6. Code up some prototypes in Codepen
-7. Data entry: Power Cards
+4. [Knock down some cards](https://github.com/orgs/browsertherapy/projects/4/views/2)
 
 ## Cleanup
 - Update schedule for next stream (README.md)
