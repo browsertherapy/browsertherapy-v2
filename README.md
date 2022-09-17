@@ -1,6 +1,6 @@
 # Next Live Stream: September 17th @ noon
-## King of Tokyo Play Test (and prettification)
-This session we'll play the game so far in Zoom, and also make it a little prettier.
+## [Card layout wireframes in PenPot](/blog/browser-therapy-e09)
+This session we'll be wireframing Player and Power Cards with Penpot.
 
 ---
 
