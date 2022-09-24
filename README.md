@@ -1,5 +1,5 @@
 # Next Live Stream: September 24th @ noon
-## [Mini-hackathon edition](https://www.meetup.com/software-developers-of-calgary/events/bhsrvsydcmbgc/)
+## [Building a SvelteKit Markdown Blog](/blog/browser-therapy-e10)
 This session we'll be building something (TBA) at the next Mini-hackathon hosted by the Software Developers of Calgary.
 
 ---
