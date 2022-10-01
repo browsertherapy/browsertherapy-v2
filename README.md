@@ -1,13 +1,12 @@
-# Next Live Stream: September 24th @ noon
-## [Building a SvelteKit Markdown Blog](/blog/browser-therapy-e10)
-This session we'll be building something (TBA) at the next Mini-hackathon hosted by the Software Developers of Calgary.
+# Next Live Stream: October 1st @ noon
+## [Play Testing the King of Tokyo Clone](/blog/browser-therapy-e11)
+This session we'll be play testing the prototype (after a bit of work) and begin preparing for porting the app to SvelteKit. 
 
 ---
 
 ## Upcoming streams
-- September 24th: [Mini-hackathon edition](https://www.meetup.com/software-developers-of-calgary/events/bhsrvsydcmbgc/)
-- October 1st: King of Tokyo build session
-- October 8th: King of Tokyo build session
+- October 1st: Play test the game
+- October 8th: Porting to SvelteKit
 - October 15th: King of Tokyo build session
 - October 22nd: King of Tokyo build session
 
