@@ -1,7 +1,7 @@
 ---
 title: Ep 11 - Play test and prep for SvelteKit
-date: '2022-09-24'
-updated: '2022-09-24'
+date: '2022-10-01'
+updated: '2022-10-01'
 excerpt: This session we'll be play testing the prototype (after a bit of work) and begin preparing for porting the app to SvelteKit.  
 categories: 
 - live-stream
