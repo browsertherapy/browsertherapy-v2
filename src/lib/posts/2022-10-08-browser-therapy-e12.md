@@ -1,8 +1,8 @@
 ---
-title: Ep 11 - Play test and prep for SvelteKit
-date: '2022-10-01'
-updated: '2022-10-01'
-excerpt: This session we'll be play testing the prototype (after a bit of work) and begin preparing for porting the app to SvelteKit.  
+title: Ep 12 - Porting King of Tokyo to SvelteKit
+date: '2022-10-08'
+updated: '2022-10-08'
+excerpt: With a successful play test of our King of Tokyo clone last week, it's now time to begin porting the code to SvelteKit!
 categories: 
 - live-stream
 ---
@@ -13,15 +13,15 @@ categories:
     - [Code Journal](https://acidtone.github.io/code-journal/)
     - [Teaching Journal](https://acidtone.github.io/teaching-journal/)
 2. Walk-through of last week;
-3. Split the card and dice "modules";
-4. Play test the game with Danielle, Alex and Mike!
-5. Start a new GH project for the SK port?
+3. Review of the [Project Board](https://github.com/orgs/browsertherapy/projects/4/);
+4. Chip away at the mountain, one card at a time.
 
 ## Relevant repos
 - King of Tokyo clone
     - [github repo](https://github.com/browsertherapy/king-of-tokyo-clone/)
     - [live demo](https://browsertherapy.github.io/king-of-tokyo-clone/)
-- [Project Board](https://github.com/orgs/browsertherapy/projects/4/views/2)
+- [Project Board](https://github.com/orgs/browsertherapy/projects/4/)
+
 ## Cleanup
 - Update schedule for next stream (README.md)
 - Create new blog post
