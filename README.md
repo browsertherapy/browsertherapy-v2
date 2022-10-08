@@ -1,5 +1,5 @@
 # Next Live Stream: October 8th @ noon
-## [Walk-through and cleanup day](/blog/browser-therapy-e12)
+## [Code walk-through and cleanup](/blog/browser-therapy-e12)
 With a successful play test of our King of Tokyo clone last week, it's time to do a walk-through of the code and in preparation for SvelteKit.
 
 ---
