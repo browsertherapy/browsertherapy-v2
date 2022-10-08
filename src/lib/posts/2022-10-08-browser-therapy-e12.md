@@ -1,8 +1,8 @@
 ---
-title: Ep 12 - Porting King of Tokyo to SvelteKit
+title: Ep 12 - Code walk-through and cleanup
 date: '2022-10-08'
 updated: '2022-10-08'
-excerpt: With a successful play test of our King of Tokyo clone last week, it's now time to begin porting the code to SvelteKit!
+excerpt: With a successful play test of our King of Tokyo clone last week, it's time to do a walk-through of the code and in preparation for SvelteKit.
 categories: 
 - live-stream
 ---
