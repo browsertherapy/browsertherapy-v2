@@ -1,15 +1,14 @@
-# Next Live Stream: October 15th @ noon
-## [Migration to SvelteKit begins!](/blog/browser-therapy-e13)
-The game is as good as it's going to get in its current form, it's time to do begin migrating to SvelteKit.
+# Next Live Stream: October 22nd @ noon
+## King of Tokyo build session
+With the migration to SvelteKit complete, there's some refactoring still to do along with some extra features like a "Who's in Tokyo" inidcator.
 
 ---
 
 ## Upcoming streams
-- October 15th: Porting King of Tokyo clone to SvelteKit
 - October 22nd: King of Tokyo build session
 - October 29th: Mini-hackathon session
 - November 5th: King of Tokyo build session
-- November 12th: King of Tokyo build session
+- November 12th: Pair-coding with Mike Theodore
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
