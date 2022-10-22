@@ -17,7 +17,7 @@ categories:
 4. Chip away at the mountain, one card at a time.
     - Create card component
     - Re-design stat counters
-    - ???
+    - Deploy on Vercel?
 
 ## Relevant repos
 - King of Tokyo clone
