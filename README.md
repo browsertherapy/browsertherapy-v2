@@ -1,11 +1,10 @@
-# Next Live Stream: October 22nd @ noon
-## [King of Tokyo build session](/blog/browser-therapy-e14)
-With the migration to SvelteKit complete, there's some refactoring still to do along with some extra features like a "Who's in Tokyo" inidcator.
+# Next Live Stream: October 29th @ noon
+## Mini-hackathon Day!
+It's the last Saturday of the month, which means we will have a Mini-hackathon in the space hosted by the Software Developers of Calgary!
 
 ---
 
 ## Upcoming streams
-- October 22nd: King of Tokyo build session
 - October 29th: Mini-hackathon session
 - November 5th: King of Tokyo build session (2pm start)
 - November 12th: Pair-coding with Mike Theodore
