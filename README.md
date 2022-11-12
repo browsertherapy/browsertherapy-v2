@@ -5,9 +5,11 @@ It's the last Saturday of the month, which means we will have a Mini-hackathon i
 ---
 
 ## Upcoming streams
-- October 29th: Mini-hackathon session
-- November 5th: King of Tokyo build session (2pm start)
+- October 29th: King of Tokyo build session
+- November 5th: Global Day of Coderetreat
 - November 12th: Pair-coding with Mike Theodore
+- November 19th: King of Tokyo build session
+- November 26th: Mini-hackathon session
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
