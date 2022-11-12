@@ -1,5 +1,5 @@
 ---
-title: Ep 15 - Migration to SvelteKit - Part 3
+title: Ep 15 - Dice Roller Refactor
 date: '2022-11-12'
 updated: '2022-11-12'
 excerpt: Migration to SvelteKit continues!
@@ -15,9 +15,6 @@ categories:
 2. Walk-through of last week;
 3. Review of the [Project Board](https://github.com/orgs/browsertherapy/projects/4/);
 4. Chip away at the mountain, one card at a time.
-    - Create card component
-    - Re-design stat counters
-    - Deploy on Vercel?
 
 ## Relevant repos
 - King of Tokyo clone
