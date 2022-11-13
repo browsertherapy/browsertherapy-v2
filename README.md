@@ -1,13 +1,11 @@
-# Next Live Stream: October 29th @ noon
-## Mini-hackathon Day!
-It's the last Saturday of the month, which means we will have a Mini-hackathon in the space hosted by the Software Developers of Calgary!
+# Next Live Stream: November 19th
+## King of Tokyo Build session
+We're getting close to a play test. Will it be this weekend?
 
 ---
 
 ## Upcoming streams
-- October 29th: King of Tokyo build session
-- November 5th: Global Day of Coderetreat
-- November 12th: Pair-coding with Mike Theodore
+- November 12th: Pair-coding with Mike and Brian
 - November 19th: King of Tokyo build session
 - November 26th: Mini-hackathon session
 
