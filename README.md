@@ -1,6 +1,7 @@
 # Next Live Stream: November 19th
-## King of Tokyo Build session
-We're getting close to a play test. Will it be this weekend?
+## [Fixing Icons](/blog/browsertherapy-e16)
+excerpt: In this session we're going to fix some things we broke last session.
+
 
 ---
 
