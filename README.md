@@ -1,7 +1,6 @@
 # Next Live Stream: November 19th
-## [Fixing Icons](/blog/browsertherapy-e16)
+## [Fixing Icons](/blog/browser-therapy-e16)
 excerpt: In this session we're going to fix some things we broke last session.
-
 
 ---
 
