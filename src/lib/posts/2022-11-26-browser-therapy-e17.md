@@ -9,19 +9,17 @@ categories:
 {excerpt}
 
 ## Agenda for this week
-1. Walk-through of last week;
-2. Review of the [Project Board](https://github.com/orgs/browsertherapy/projects/4/);
-3. Fix dice size for mobile;
-4. Deploy to GH Pages (or Vercel as a backup);
-5. Let's Play!
+1. Weekly Journal Review
+    - [Code Journal](https://acidtone.github.io/code-journal/)
+    - [Teaching Journal](https://acidtone.github.io/teaching-journal/)
+2. Walk-through of last week;
+3. Review of the [Project Board](https://github.com/orgs/browsertherapy/projects/4/);
+4. Fix dice size for mobile;
+5. Deploy to GH Pages (or Vercel as a backup);
+6. Let's Play!
 
 ## Relevant repos
 - King of Tokyo clone
     - [github repo](https://github.com/browsertherapy/king-of-tokyo-clone/)
     - [live demo](https://browsertherapy.github.io/king-of-tokyo-clone/)
 - [Project Board](https://github.com/orgs/browsertherapy/projects/4/)
-
-## Cleanup
-- Update schedule for next stream (README.md)
-- Create new blog post
-- Publish VOD
