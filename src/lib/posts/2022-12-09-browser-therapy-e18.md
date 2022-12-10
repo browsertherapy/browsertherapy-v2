@@ -1,0 +1,25 @@
+---
+title: Ep 17 - Deployment and Play Test
+date: '2022-12-09'
+updated: '2022-12-09'
+excerpt: Time to work on the backlog and set some Milestones
+categories: 
+- live-stream
+---
+{excerpt}
+
+## Agenda for this week
+1. Weekly Journal Review
+    - [Code Journal](https://acidtone.github.io/code-journal/)
+    - [Teaching Journal](https://acidtone.github.io/teaching-journal/)
+2. Walk-through of last week;
+3. Review of the [Project Board](https://github.com/orgs/browsertherapy/projects/4/);
+4. Set a Milesone for v1.0;
+3. Chip away at the mountain, one card at a time.
+
+
+## Relevant repos
+- King of Tokyo clone
+    - [github repo](https://github.com/browsertherapy/king-of-tokyo-clone/)
+    - [live demo](https://browsertherapy.github.io/king-of-tokyo-clone/)
+- [Project Board](https://github.com/orgs/browsertherapy/projects/4/)

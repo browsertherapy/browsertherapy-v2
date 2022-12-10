@@ -1,6 +1,6 @@
-# Next Live Stream: November 26th
-## [Deployment and Play Test](/blog/browser-therapy-e17)
-Time to play test the latest version of the game! At least after some tweaks and deployment.
+# Next Live Stream: December 17th
+## [Deployment and Play Test](/blog/browser-therapy-e18)
+Time to work on the backlog and set some Milestones!
 
 ---
 
