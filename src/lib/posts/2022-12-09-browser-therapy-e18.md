@@ -1,8 +1,8 @@
 ---
-title: Ep 17 - Deployment and Play Test
-date: '2022-12-09'
-updated: '2022-12-09'
-excerpt: Time to work on the backlog and set some Milestones
+title: Ep 17 - Milestones and backlog curration
+date: '2022-12-10'
+updated: '2022-12-10'
+excerpt: Time to work on the backlog and set some Milestones!
 categories: 
 - live-stream
 ---
