@@ -1,15 +1,12 @@
 # Next Live Stream: December 17th
-## [Deployment and Play Test](/blog/browser-therapy-e18)
-Time to work on the backlog and set some Milestones!
-
+## [Building some Power Card modals](/blog/browser-therapy-e19)
+If we play our cards right (get it?), we'll be able to activate 6 (or more!) Power Cards by adding the ability to discard player cards and move cards from one player to another.
 ---
 
 ## Upcoming streams
-- November 12th: Pair-coding with Mike and Brian
-- November 19th: King of Tokyo build session
-- November 26th: Mini-hackathon session
-- December 3rd: King of Tokyo journey to 1.0
-- December 10th: King of Tokyo build session?
+- December 17th: Building card modals
+- December 24th: King of Tokyo build session (Christmas Edition)
+- December 31st: King of Tokyo build session (Alcohol Edition)
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
