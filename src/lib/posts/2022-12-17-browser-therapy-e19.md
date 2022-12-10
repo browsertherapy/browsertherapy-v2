@@ -1,5 +1,5 @@
 ---
-title: Ep 17 - Building some Card modals
+title: Ep 19 - Building some Card modals
 date: '2022-12-10'
 updated: '2022-12-10'
 excerpt: If we play our cards right (get it?), we'll be able to activate 6 cards by adding the ability to discard player cards and move cards from one player to another.

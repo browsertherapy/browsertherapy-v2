@@ -1,5 +1,5 @@
 ---
-title: Ep 17 - Milestones and backlog curration
+title: Ep 18 - Milestones and backlog curration
 date: '2022-12-10'
 updated: '2022-12-10'
 excerpt: Time to work on the backlog and set some Milestones!
