@@ -1,13 +1,12 @@
-# Next Live Stream: Dec 17th
-## [Ep 19 - Upgrading to SvelteKit 1.0](/blog/browser-therapy-e19)
+# Next Live Stream: Dec 25th
+## [Ep 20 - Creating Custom/Drived Stores](/blog/browser-therapy-e20)
 
-Change of plans (originally work on modals and such) - SvelteKit just announced their 1.0 release. We'll be upgrading to the latest version (crosses fingers).
+Upcoming features will be a lot easier (probably) if we had a custom store for game state. This might take a few sessions...
 
 ---
 
 ## Upcoming streams
-- December 17th: Upgrading to SvelteKit 1.0
-- December 24th: King of Tokyo build session (Christmas Edition)
+- December 24th: Custom Stores
 - December 31st: King of Tokyo build session (Alcohol Edition)
 
 ## Project Wishlist
