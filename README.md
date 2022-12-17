@@ -1,12 +1,12 @@
 # Next Live Stream: Dec 17th
-## [Building some Power Card modals](/blog/browser-therapy-e19)
+## [Ep 19 - Upgrading to SvelteKit 1.0](/blog/browser-therapy-e19)
 
-If we play our cards right (get it?), we'll be able to activate 6 (or more!) Power Cards by adding the ability to discard player cards and move cards from one player to another.
+Change of plans (originally work on modals and such) - SvelteKit just announced their 1.0 release. We'll be upgrading to the latest version (crosses fingers).
 
 ---
 
 ## Upcoming streams
-- December 17th: Building card modals
+- December 17th: Upgrading to SvelteKit 1.0
 - December 24th: King of Tokyo build session (Christmas Edition)
 - December 31st: King of Tokyo build session (Alcohol Edition)
 

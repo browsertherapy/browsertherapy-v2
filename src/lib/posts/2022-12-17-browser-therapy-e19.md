@@ -1,8 +1,8 @@
 ---
-title: Ep 19 - Building some Card modals
-date: '2022-12-10'
-updated: '2022-12-10'
-excerpt: If we play our cards right (get it?), we'll be able to activate 6 cards by adding the ability to discard player cards and move cards from one player to another.
+title: Ep 19 - Upgrading to SvelteKit 1.0
+date: '2022-12-17'
+updated: '2022-12-17'
+excerpt: Change of plans (originally work on modals and such) - SvelteKit just announced their 1.0 release. We'll be upgrading to the latest version (crosses fingers).
 categories: 
 - live-stream
 ---
