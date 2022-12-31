@@ -1,4 +1,4 @@
-# Next Live Stream: Dec 25th
+# Next Live Stream: Dec 31st
 ## [Ep 20 - Creating Custom/Drived Stores](/blog/browser-therapy-e20)
 
 Upcoming features will be a lot easier (probably) if we had a custom store for game state. This might take a few sessions...
