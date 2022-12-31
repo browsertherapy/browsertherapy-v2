@@ -1,5 +1,5 @@
 ---
-title: Ep 19 - Creating Custom/Drived Stores
+title: Ep 20 - Creating Custom/Drived Stores
 date: '2022-12-31'
 updated: '2022-12-31'
 excerpt: Upcoming features will be a lot easier (probably) if we had a custom store for game state. This might take a few sessions...
