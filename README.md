@@ -1,13 +1,12 @@
 # Next Live Stream: Jan 7th
-## [Ep 21 - Taking a closer look at the dice roller](/blog/browser-therapy-e21)
+## [Ep 22 - Adding custom dice number and dice rolls](/blog/browser-therapy-e22)
 
-In this session we'll try to add some functionality to the dice roller so we can activate additional Power Cards.
+In this session we'll try to add the abolity to roll extra dice and add extra dice rolls.
 
 ---
 
 ## Upcoming streams
-- Jan 7th: Dice roller build session
-- Jan 14th: King of Tokyo build session
+- Jan 14th: Dice roller build session
 - Jan 21st: King of Tokyo build session
 - Jan 28th: King of Tokyo build session
 
