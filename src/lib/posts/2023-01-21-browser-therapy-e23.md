@@ -1,8 +1,8 @@
 ---
-title: Ep 23 - 
+title: Ep 23 - Adding right-click and Power Card menu interfaces
 date: '2023-01-21'
 updated: '2023-01-14'
-excerpt: In this session we'll try to add the ability to roll extra dice and add extra dice rolls.
+excerpt: In this session we'll try re-rolling a resolved die with a right-click and add Power Card menus to the player decks.
 categories: 
 - live-stream
 ---
