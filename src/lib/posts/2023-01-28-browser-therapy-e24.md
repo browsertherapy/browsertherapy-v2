@@ -1,8 +1,8 @@
 ---
-title: Ep 23 - Adding right-click and Power Card menu interfaces
-date: '2023-01-21'
-updated: '2023-01-14'
-excerpt: In this session we'll try re-rolling a resolved die with a right-click and add Power Card menus to the player decks.
+title: Ep 24 - Closing a popup menu
+date: '2023-01-28'
+updated: '2023-01-21'
+excerpt: In this session we'll try to close a popup menu. It's harder than it should be.
 categories: 
 - live-stream
 ---

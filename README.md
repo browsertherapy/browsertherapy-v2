@@ -1,13 +1,12 @@
 # Next Live Stream: Jan 21st
-## [Ep 23 - Adding right-click and Power Card menu interfaces](/blog/browser-therapy-e23)
+## [Ep 24 - Closing a popup menu](/blog/browser-therapy-e24)
 
-In this session we'll try re-rolling a resolved die with a right-click and add Power Card menus to the player decks.
+In this session we'll try to close a popup menu. It's harder than it should be.
 
 ---
 
 ## Upcoming streams
-- Jan 21st: Right-click and menu interfaces
-- Jan 28th: Mini-hackathon build session
+- Jan 28th: Closing a popup menu
 - Feb 4th: King of Tokyo build session
 - Feb 11th: King of Tokyo build session
 
