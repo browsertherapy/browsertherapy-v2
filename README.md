@@ -1,4 +1,4 @@
-# Next Live Stream: Jan 21st
+# Next Live Stream: Jan 28th
 ## [Ep 24 - Closing a popup menu](/blog/browser-therapy-e24)
 
 In this session we'll try to close a popup menu. It's harder than it should be.
