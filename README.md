@@ -1,4 +1,4 @@
-# Next Live Stream: Jan 28th
+# Next Live Stream: Feb 4thth
 ## [Ep 25 - Card menu cleanup and expansion](/blog/browser-therapy-e25)
 
 With the addition of player card discards and transfers, we'll expand the card menu functionality to include the Face Up Deck.
