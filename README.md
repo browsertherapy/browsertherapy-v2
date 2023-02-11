@@ -1,14 +1,14 @@
-# Next Live Stream: Feb 11th
-## [Ep 26 - Re-rolling single dice](/blog/browser-therapy-e26)
+# Next Live Stream: Feb 18th
+## [Ep 26 - Play test!](/blog/browser-therapy-e27)
 
-With the addition of player card discards and transfers, we'll expand the card menu functionality to include the Face Up Deck.
+All cards (except that one we never talk about) are active! One final (hopefully) play test before we go 1.0 Feb 25th. Bring extra underwear..
 
 ---
 
 ## Upcoming streams
-- Feb 11th: Re-rolling single dice
-- Feb 18th: King of Tokyo build session
-- Feb 25th: King of Tokyo build session
+- Feb 18th: Play test!
+- Feb 25th: Mini-hackathon - Going 1.0!
+- Mar 4th: ???
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
