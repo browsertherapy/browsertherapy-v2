@@ -1,5 +1,5 @@
-# Next Live Stream: Feb 4th
-## [Ep 25 - Re-rolling single dice](/blog/browser-therapy-e26)
+# Next Live Stream: Feb 11th
+## [Ep 26 - Re-rolling single dice](/blog/browser-therapy-e26)
 
 With the addition of player card discards and transfers, we'll expand the card menu functionality to include the Face Up Deck.
 
