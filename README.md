@@ -1,13 +1,12 @@
 # Next Live Stream: Feb 4th
-## [Ep 25 - Card menu cleanup and expansion](/blog/browser-therapy-e25)
+## [Ep 25 - Re-rolling single dice](/blog/browser-therapy-e26)
 
 With the addition of player card discards and transfers, we'll expand the card menu functionality to include the Face Up Deck.
 
 ---
 
 ## Upcoming streams
-- Feb 4th: Player card menu upgrades
-- Feb 11th: King of Tokyo build session
+- Feb 11th: Re-rolling single dice
 - Feb 18th: King of Tokyo build session
 - Feb 25th: King of Tokyo build session
 
