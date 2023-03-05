@@ -1,8 +1,8 @@
 ---
-title: Ep 27 - Play test!
-date: '2023-02-18'
-updated: '2023-02-18'
-excerpt: All cards (except that one we never talk about) are active! One final (hopefully) play test before we go 1.0 Feb 25th. Bring extra underwear.
+title: Ep 28 - A little more work to do
+date: '2023-03-04'
+updated: '2023-03-04'
+excerpt: The play test last session revealed an issue with the single die roller and another card we totally forgot about! We've got just a little more work to do before we polish for 1.0.
 categories: 
 - live-stream
 ---
