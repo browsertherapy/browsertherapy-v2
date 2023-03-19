@@ -1,14 +1,13 @@
-# Next Live Stream: March 18th
-## [Ep 30 - Final Push for 1.0](/blog/browser-therapy-e30)
+# Next Live Stream: March 25th
+## [Ep 31 - v1.0 Demo Video and Play Test](/blog/browser-therapy-e31)
 
-We've got one last job - re-write the dice roller so it doesn't suck on mobile. Then we officially go 1.0! 
+Version 1.0 has been released! Time to record a demo video with a play test! 
 
 ---
 
 ## Upcoming streams
-- Mar 11th: Polishing for 1.0
-- Mar 18: Final push to 1.0
-- Mar 25: Mini-hackathon
+- Mar 25: v1.0 Demo Video and Play Test
+- Apr 1: ???
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
