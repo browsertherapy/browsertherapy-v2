@@ -1,13 +1,15 @@
 # Next Live Stream: March 25th
-## [Ep 31 - v1.0 Demo Video and Play Test](/blog/browser-therapy-e31)
+## [Ep 33 - Refactoring the Power Card component with Svelte Context](/blog/browser-therapy-e33)
 
-Version 1.0 has been released! Time to record a demo video with a play test! 
+The Power Card menus need an upgrade to fix a sneaky bug and pave the way for removing the FaceUp deck browser prompt.
 
 ---
 
 ## Upcoming streams
-- Mar 25: v1.0 Demo Video and Play Test
-- Apr 1: ???
+- Apr 8: Power Card upgrade
+- Apr 15: King of Tokyo Build Session
+- Apr 22: King of Tokyo Build Session
+- Apr 29: Mini-hackathon session
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
