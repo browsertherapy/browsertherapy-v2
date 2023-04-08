@@ -1,8 +1,8 @@
 ---
-title: Ep 33 - Refactoring Power Card Menu with Svelte Context
-date: '2023-04-08'
-updated: '2023-04-01'
-excerpt: The Power Card menus need an upgrade to fix a sneaky bug and pave the way for removing the FaceUp deck browser prompt.
+title: Ep 33 - Moving card logic into the Svelte store
+date: '2023-04-07'
+updated: '2023-04-07'
+excerpt: There's a lot of game logic for moving cards that should be moved into the store.
 categories: 
 - live-stream
 ---

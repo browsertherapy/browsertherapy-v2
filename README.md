@@ -1,7 +1,7 @@
 # Next Live Stream: March 25th
-## [Ep 33 - Refactoring the Power Card component with Svelte Context](/blog/browser-therapy-e33)
+## [Ep 33 - Moving card logic into the Svelte store](/blog/browser-therapy-e33)
 
-The Power Card menus need an upgrade to fix a sneaky bug and pave the way for removing the FaceUp deck browser prompt.
+There's a lot of game logic for moving cards that should be moved into the store.
 
 ---
 
