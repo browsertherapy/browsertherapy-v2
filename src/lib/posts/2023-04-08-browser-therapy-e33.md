@@ -2,7 +2,7 @@
 title: Ep 33 - Moving card logic into the Svelte store
 date: '2023-04-07'
 updated: '2023-04-07'
-excerpt: There's a lot of game logic for moving cards that should be moved into the store.
+excerpt: There's a lot of game logic for moving cards that should be moved into the store before any more work is done on the PowerCard menus.
 categories: 
 - live-stream
 ---

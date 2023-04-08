@@ -1,7 +1,7 @@
 # Next Live Stream: March 25th
 ## [Ep 33 - Moving card logic into the Svelte store](/blog/browser-therapy-e33)
 
-There's a lot of game logic for moving cards that should be moved into the store.
+There's a lot of game logic for moving cards that should be moved into the store before any more work is done on the PowerCard menus.
 
 ---
 
