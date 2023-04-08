@@ -1,13 +1,12 @@
-# Next Live Stream: April 7th
-## [Ep 33 - Moving card logic into the Svelte store](/blog/browser-therapy-e33)
+# Next Live Stream: April 15th
+## [Ep 34 - Refactoring the Face Up card menus](/blog/browser-therapy-e34)
 
-There's a lot of game logic for moving cards that should be moved into the store before any more work is done on the PowerCard menus.
+After moving a lot of game logic to the game state, it's finally time to get rid of one of the browser prompts!
 
 ---
 
 ## Upcoming streams
-- Apr 8: Power Card upgrade
-- Apr 15: King of Tokyo Build Session
+- Apr 15: Refactoring the Face Up card menus
 - Apr 22: King of Tokyo Build Session
 - Apr 29: Mini-hackathon session
 
