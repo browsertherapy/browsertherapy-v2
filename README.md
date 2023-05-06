@@ -1,4 +1,4 @@
-# Next Live Stream: April 15th
+# Next Live Stream: May 6th
 ## [Ep 34 - Refactoring the Face Up card menus](/blog/browser-therapy-e34)
 
 After moving a lot of game logic to the game state, it's finally time to get rid of one of the browser prompts!

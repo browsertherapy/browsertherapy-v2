@@ -1,7 +1,7 @@
 ---
 title: Ep 34 - Refactoring the Face Up card menus
-date: '2023-04-15'
-updated: '2023-04-07'
+date: '2023-05-06'
+updated: '2023-05-06'
 excerpt: After moving a lot of game logic to the game state, it's finally time to get rid of one of the browser prompts!
 categories: 
 - live-stream
