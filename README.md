@@ -6,9 +6,9 @@ After moving a lot of game logic to the game state, it's finally time to get rid
 ---
 
 ## Upcoming streams
-- Apr 15: Refactoring the Face Up card menus
-- Apr 22: King of Tokyo Build Session
-- Apr 29: Mini-hackathon session
+- May 6th - Refactoring the Face Up card menus
+- May 13th - King of Tokyo Build Session
+- May 20th - King of Tokyo Build Session
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
