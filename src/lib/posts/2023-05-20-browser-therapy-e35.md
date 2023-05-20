@@ -1,5 +1,5 @@
 ---
-title: Ep 35 - Add animations
+title: Ep 35 - Adding animations
 date: '2023-05-20'
 updated: '2023-05-20'
 excerpt: This session we'll be playing around with Svelte animations to add some razzle dazzle to the UI.
