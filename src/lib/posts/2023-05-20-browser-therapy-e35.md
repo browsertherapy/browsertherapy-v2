@@ -1,8 +1,8 @@
 ---
-title: Ep 34 - Add current player
-date: '2023-05-13'
-updated: '2023-05-06'
-excerpt: By popular request (by Brian) we'll be adding the ability to select the current player, along with some other tweaks.
+title: Ep 35 - Add animations
+date: '2023-05-20'
+updated: '2023-05-20'
+excerpt: This session we'll be playing around with Svelte animations to add some razzle dazzle to the UI.
 categories: 
 - live-stream
 ---

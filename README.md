@@ -1,14 +1,13 @@
-# Next Live Stream: May 13th
-## [Ep 35 - Add Current Player](/blog/browser-therapy-e35)
+# Next Live Stream: May 20th
+## [Ep 35 - Add Animations](/blog/browser-therapy-e35)
 
-By popular request (by Brian) we'll be adding the ability to select the current player, along with some other tweaks.
+This session we'll be playing around with Svelte animations to add some razzle dazzle to the UI.
 
 ---
 
 ## Upcoming streams
-- May 13th - Add current player
-- May 20th - King of Tokyo Build Session
-- May 27th - Mini-hackathon edition
+- May 20th - Add animations
+- May 27th - Conditional UI counters
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
