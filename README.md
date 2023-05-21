@@ -1,13 +1,13 @@
-# Next Live Stream: May 20th
-## [Ep 35 - Adding Animations](/blog/browser-therapy-e35)
+# Next Live Stream: May 27th
+## [Ep 36 - Adding conditional token counters](/blog/browser-therapy-e36)
 
-This session we'll be playing around with Svelte animations to add some razzle dazzle to the UI.
+By popular request (by Brian) we'll be adding the ability to select the current player. But first, we have to add some conditional counters to clean the UI up a bit.
 
 ---
 
 ## Upcoming streams
-- May 20th - Adding animations
 - May 27th - Conditional UI counters
+- June 3rd - King of Tokyo Build session
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)

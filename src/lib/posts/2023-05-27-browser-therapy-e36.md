@@ -1,5 +1,5 @@
 ---
-title: Ep 36 - Add current player
+title: Ep 36 - Adding conditional token counters
 date: '2023-05-27'
 updated: '2023-05-20'
 excerpt: By popular request (by Brian) we'll be adding the ability to select the current player. But first, we have to add some conditional counters to clean the UI up a bit.
