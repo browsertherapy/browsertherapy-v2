@@ -1,13 +1,13 @@
-# Next Live Stream: May 27th
-## [Ep 36 - Adding conditional token counters](/blog/browser-therapy-e36)
+# Next Live Stream: May 30th
+## [Ep 36 - Slides project setup and stream test](/blog/browser-therapy-e36)
 
-By popular request (by Brian) we'll be adding the ability to select the current player. But first, we have to add some conditional counters to clean the UI up a bit.
+New sessions during the week! We'll be setting up a brand new SvelteKit project for presentation slides and test the stream setup from a new location.
 
 ---
 
 ## Upcoming streams
-- May 27th - Conditional UI counters
-- June 3rd - King of Tokyo Build session
+- May 30th - Slides project setup
+- June 3rd - Conditional UI counters
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
