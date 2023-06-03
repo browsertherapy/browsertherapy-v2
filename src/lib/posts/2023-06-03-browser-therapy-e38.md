@@ -1,7 +1,7 @@
 ---
-title: Ep 37 - Adding conditional token counters
+title: Ep 38 - Adding conditional token counters
 date: '2023-06-03'
-updated: '2023-05-30'
+updated: '2023-06-02'
 excerpt: By popular request (by Brian) we'll be adding the ability to select the current player. But first, we have to add some conditional counters to clean the UI up a bit.
 categories: 
 - live-stream
