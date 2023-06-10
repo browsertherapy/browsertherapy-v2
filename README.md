@@ -1,14 +1,9 @@
-# Next Live Stream: June 2nd
-## [Ep 37 - Slides app session one](/blog/browser-therapy-e36)
+# Next Live Stream: TBD
+## [On indefinite hiatus]
 
-The first Slides coding session calls for a few drinks on a Friday night.
+I'm taking a break so I can focus on family. Rest assured I will return. I'm currently working on a new website for BT and I'll be back online as soon as I am able.
 
 ---
-
-## Upcoming streams
-- May 30th - Slides project setup
-- June 2nd - Slides app session one
-- June 3rd - Conditional UI counters
 
 ## Project Wishlist
 - [Browser Therapy project boards](https://github.com/orgs/browsertherapy/projects)
