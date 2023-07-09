@@ -1,4 +1,4 @@
-# Next Live Stream: July 9, 2023
+# Next Live Stream: July 9
 ## King of Tokyo Build Session
 We'll be upgrading King of Tokyo to the recently released Svelte 4 and upgrade SvelteKit along the way. At least we'll try.
 
