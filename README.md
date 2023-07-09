@@ -1,7 +1,6 @@
-# Next Live Stream: TBD
-## [On indefinite hiatus]
-
-I'm taking a break so I can focus on family. Rest assured I will return. I'm currently working on a new website for BT and I'll be back online as soon as I am able.
+# Next Live Stream: July 9, 2023
+## King of Tokyo Build Session
+We'll be upgrading King of Tokyo to the recently released Svelte 4 and upgrade SvelteKit along the way. At least we'll try.
 
 ---
 
